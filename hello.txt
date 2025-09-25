@@ -1,4 +1,5 @@
 NAME     : Dasari Krupa Priya
 ROLL NO  : 03
 COLLEGE  : Aditya Degree College for Women
-SECTION  : BCA-C
+
+
